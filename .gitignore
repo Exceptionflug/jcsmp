@@ -1,0 +1,8 @@
+target/**
+*.dsp
+dependency-reduced-pom.xml
+*.pcm
+*.iml
+*.ipr
+*.iws
+.idea/**
