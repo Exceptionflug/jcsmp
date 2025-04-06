@@ -1,7 +1,6 @@
 package de.exceptionflug.jcsmp;
 
 import de.exceptionflug.jcsmp.header.DSPHeader;
-import de.exceptionflug.jcsmp.vox.Vox;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 
